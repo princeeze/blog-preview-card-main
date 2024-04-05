@@ -70,10 +70,12 @@ body {
 
 .content__heading:hover {
   color: var(--yellow);
+  pointer: cursor;
 }
 
 .content__heading:focus {
   color: var(--yellow);
+    pointer: cursor;
 }
 .content__desc {
   font-weight: 500;
